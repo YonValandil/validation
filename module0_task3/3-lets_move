@@ -1,2 +1,0 @@
-mv [A-Z]* /tmp/u 2> /dev/null; true
-
